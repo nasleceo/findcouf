@@ -4,6 +4,10 @@
             "en": "All",
             "ar": "الجميع"
         },
+         "male_haircut": {
+            "en": "Male Haircut",
+            "ar": "قص الشعر للرجال"
+        },
         "makeup": {
             "en": "Makeup",
             "ar": "مكياج"
@@ -12,10 +16,7 @@
             "en": "Gel Nails",
             "ar": "أظافر جيل"
         },
-        "male_haircut": {
-            "en": "Male Haircut",
-            "ar": "قص الشعر للرجال"
-        },
+       
         "female_haircut": {
             "en": "Female Haircut",
             "ar": "تصفيف الشعر للنساء"
