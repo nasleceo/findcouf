@@ -1,5 +1,9 @@
 {
     "services": {
+          "all": {
+            "en": "All",
+            "ar": "الجميع"
+        },
         "makeup": {
             "en": "Makeup",
             "ar": "مكياج"
