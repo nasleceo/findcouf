@@ -1,30 +1,116 @@
 {
-    "makeup": "Makeup",
-    "gel_nails": "Gel Nails",
-    "male_haircut": "Male Haircut",
-    "female_haircut": "Female Haircut",
-    "beard_trim": "Beard Trim",
-    "line_up": "Line Up",
-    "massage_therapy": "Massage Therapy",
-    "brows_lashes": "Brows & Lashes",
-    "fade_cut": "Fade Cut",
-    "buzz_cut": "Buzz Cut",
-    "crew_cut": "Crew Cut",
-    "pompadour": "Pompadour",
-    "dreadlocks": "Dreadlocks",
-    "box_braids": "Box Braids",
-    "gel_manicure": "Gel Manicure",
-    "acrylic_nails": "Acrylic Nails",
-    "pedicure": "Pedicure",
-    "manicure": "Manicure",
-    "skin_care": "Skin Care",
-    "hydrafacial": "Hydrafacial",
-    "eyebrow_threading": "Eyebrow Threading",
-    "hair_removal": "Hair Removal",
-    "scalp_treatment": "Scalp Treatment",
-    "hair_coloring": "Hair Coloring",
-    "highlights": "Highlights",
-    "hair_treatment": "Hair Treatment",
-    "facial_care": "Facial Care",
-    "waxing": "Waxing"
+    "services": {
+        "makeup": {
+            "en": "Makeup",
+            "ar": "مكياج"
+        },
+        "gel_nails": {
+            "en": "Gel Nails",
+            "ar": "أظافر جيل"
+        },
+        "male_haircut": {
+            "en": "Male Haircut",
+            "ar": "قص الشعر للرجال"
+        },
+        "female_haircut": {
+            "en": "Female Haircut",
+            "ar": "تصفيف الشعر للنساء"
+        },
+        "beard_trim": {
+            "en": "Beard Trim",
+            "ar": "تشذيب اللحية"
+        },
+        "line_up": {
+            "en": "Line Up",
+            "ar": "تحديد الحواف"
+        },
+        "massage_therapy": {
+            "en": "Massage Therapy",
+            "ar": "علاج التدليك"
+        },
+        "brows_lashes": {
+            "en": "Brows & Lashes",
+            "ar": "الحواجب والرموش"
+        },
+        "fade_cut": {
+            "en": "Fade Cut",
+            "ar": "قص التلاشي"
+        },
+        "buzz_cut": {
+            "en": "Buzz Cut",
+            "ar": "قص قصير"
+        },
+        "crew_cut": {
+            "en": "Crew Cut",
+            "ar": "قصة كرو"
+        },
+        "pompadour": {
+            "en": "Pompadour",
+            "ar": "بومبادور"
+        },
+        "dreadlocks": {
+            "en": "Dreadlocks",
+            "ar": "ضفائر دريدلوك"
+        },
+        "box_braids": {
+            "en": "Box Braids",
+            "ar": "ضفائر بوكس"
+        },
+        "gel_manicure": {
+            "en": "Gel Manicure",
+            "ar": "مانيكير جيل"
+        },
+        "acrylic_nails": {
+            "en": "Acrylic Nails",
+            "ar": "أظافر أكريليك"
+        },
+        "pedicure": {
+            "en": "Pedicure",
+            "ar": "باديكير"
+        },
+        "manicure": {
+            "en": "Manicure",
+            "ar": "مانيكيور"
+        },
+        "skin_care": {
+            "en": "Skin Care",
+            "ar": "العناية بالبشرة"
+        },
+        "hydrafacial": {
+            "en": "Hydrafacial",
+            "ar": "هيدرافيشل"
+        },
+        "eyebrow_threading": {
+            "en": "Eyebrow Threading",
+            "ar": "نتف الحواجب"
+        },
+        "hair_removal": {
+            "en": "Hair Removal",
+            "ar": "إزالة الشعر"
+        },
+        "scalp_treatment": {
+            "en": "Scalp Treatment",
+            "ar": "علاج فروة الرأس"
+        },
+        "hair_coloring": {
+            "en": "Hair Coloring",
+            "ar": "صبغ الشعر"
+        },
+        "highlights": {
+            "en": "Highlights",
+            "ar": "خصلات مضيئة"
+        },
+        "hair_treatment": {
+            "en": "Hair Treatment",
+            "ar": "علاج الشعر"
+        },
+        "facial_care": {
+            "en": "Facial Care",
+            "ar": "العناية بالوجه"
+        },
+        "waxing": {
+            "en": "Waxing",
+            "ar": "إزالة الشعر بالشمع"
+        }
+    }
 }
